@@ -23,7 +23,7 @@
 ![Untitled (3)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/0eb4dfbf-1022-450d-ad96-415ab72f7b96)
 <em> 위 그림은 gibuhagae 프로젝트 당시 Notion을 활용한 작업장이다. </em>
 
-사전 조사 및 설계 단계로서 1.프로젝트 주제 및 기능 분배 | 2.프로토타이핑.업무흐름도.ERD | 3.프로그램 목록 및 설계의 세 가지 단계로 분류 및 절차대로 수행해 나갔다. (1번 부분은 위에 설명을 했으므로 생략하고 2번 부분부터 시작하게 된다.)
+사전 조사 및 설계 단계로서 **1.프로젝트 주제 및 기능 분배 | 2.프로토타이핑.업무흐름도.ERD | 3.프로그램 목록 및 설계** 의 세 가지 단계로 분류 및 절차대로 수행해 나갔다. (1번 부분은 위에 설명을 했으므로 생략하고 2번 부분부터 시작하게 된다.)
 
 ![Untitled (4)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/e3b9a770-8592-4952-985c-0cde7418a35c)
 <em> Figma, FigJam Tool을 활용하여 설계된 프로토타이핑과 순서도 </em>
