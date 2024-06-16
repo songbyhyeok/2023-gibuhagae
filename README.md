@@ -20,7 +20,7 @@
 ![Untitled (2)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/3820f3b8-a5c5-42f9-a757-a7ebc68210c4)
 
 ### 기획 과정(09.26 ~ 10.03)
-![Untitled (3)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/0eb4dfbf-1022-450d-ad96-415ab72f7b96)
+![Untitled (3)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/0eb4dfbf-1022-450d-ad96-415ab72f7b96)  
 <em> 위 그림은 gibuhagae 프로젝트 당시 Notion을 활용한 작업장이다. </em>
 
 사전 조사 및 설계 단계로서 **1.프로젝트 주제 및 기능 분배 | 2.프로토타이핑.업무흐름도.ERD | 3.프로그램 목록 및 설계** 의 세 가지 단계로 분류 및 절차대로 수행해 나갔다. (1번 부분은 위에 설명을 했으므로 생략하고 2번 부분부터 시작하게 된다.)
