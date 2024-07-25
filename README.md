@@ -10,7 +10,6 @@
   - [소개](#소개)
 - [2. 기획](#2-기획)
   - [프로그램 개발](#프로그램-개발)
-  - [이슈 관리](#이슈-관리)
   - [과정(09.26 ~ 10.03)](#과정0926--1003)
 - [3. 기능(10.03 ~ 10.19)](#3-기능1003--1019)
   - [Security Login 구현](#security-login-구현)
@@ -31,7 +30,7 @@
 ### 환경
 SpringBoot(Security, Thymeleaf, Mvc), Mybatis, Oracle
 ### Team URL
-<a href="https://github.com/gibuhagae/gibuhagae" target="_blank">https://github.com/orgs/Hicoding-Groupware/repositories</a>
+<a href="https://github.com/gibuhagae/gibuhagae" target="_blank">https://github.com/gibuhagae/gibuhagae</a>
 ### 소개
 사회적.윤리적 성장 목표로 유기동물 보호 목적의 적립금 기부 시스템을 탑재한 반려동물 용품 쇼핑몰로써 상품 관리와 회원 시스템을 포함하고 있다.  
 
