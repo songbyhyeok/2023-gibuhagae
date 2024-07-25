@@ -88,7 +88,7 @@ http.rememberMe()에 관련 메소드 부분들을 체인 연동 형식으로 �
 ### 아이디, 비밀번호 찾기 기능
 ![Untitled (7)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/ade47d3e-589a-4bed-84da-dc61e69b8569)
 
-찾기 버튼 클릭 시 SecurityContextHolder에서 사용자 객체를 추출하여 데이터베이스에서 해당 사용자 정보를 확인, 정보가 있는지 여부에 따라 두 가지 경우로 나누어 처리. 
+찾기 버튼 클릭 시 SecurityContextHolder에서 사용자 객체를 추출하여 데이터베이스에서 해당 사용자 정보를 확인, 정보가 있는지 여부에 따라 두 가지 경우로 나누어 처리.
 없는 경우는 Modal Window 으로 알림 전달, 있는 경우는 ID와 임시 비밀번호를 발급하여 새 페이지에 표시하여 처리
 
 ### 회원가입과 수정
