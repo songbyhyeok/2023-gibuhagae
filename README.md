@@ -23,11 +23,11 @@
 
 ## 1. 개요
 ### 분류
-팀 프로젝트 (F-S 5명)
+    팀 프로젝트 (F-S 5명)
 ### 개발 기간
-2023.09.26 ~ 2023.10.20
+    2023.09.26 ~ 2023.10.20
 ### 환경
-SpringBoot(Security, Thymeleaf, Mvc), Mybatis, Oracle
+    SpringBoot(Security, Thymeleaf, Mvc), Mybatis, Oracle
 ### Team URL
 <a href="https://github.com/gibuhagae/gibuhagae" target="_blank">https://github.com/gibuhagae/gibuhagae</a>
 ### 소개
