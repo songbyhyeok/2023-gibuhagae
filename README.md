@@ -7,6 +7,16 @@
 * 개발 기간: 2023.09.26 ~ 2023.10.20
 * 기술스택: SpringBoot(Security, Thymeleaf, Mvc), Mybatis, Oracle
 * Team URL: https://github.com/gibuhagae/gibuhagae
+* 담당 역할
+<img src="https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/3c381ea7-b057-4234-94a4-c64bb1eaf835" style="width:35%; height:35%;" alt="image6">
+
+**로그인/회원가입**
+  1. Security Login System 커스텀마이징을 통한 로그인 구현 
+  2. Security RememberMe를 사용한 로그인 유지
+  3. id 저장과 로그인 유지 설정 반영구 유지 기능 
+  4. ID와 PWD 찾기 기능 구현 회원가입 
+  5. 회원정보에서 정규식 처리를 통한 입력 조건 처리와 Daum API 연동을 통한 주소 입력
+  6. ContextHolder에서 정보를 꺼내 회원정보 수정 구현
 
 ## 목업
 <details>
