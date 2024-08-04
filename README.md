@@ -7,7 +7,10 @@
 * 개발 기간: 2023.09.26 ~ 2023.10.20
 * 기술스택: SpringBoot(Security, Thymeleaf, Mvc), Mybatis, Oracle
 * Team URL: https://github.com/gibuhagae/gibuhagae
-* 담당 역할
+
+---
+  
+## 담당 역할
 <img src="https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/3c381ea7-b057-4234-94a4-c64bb1eaf835" style="width:35%; height:35%;" alt="image6">
 
 **로그인/회원가입**
@@ -46,8 +49,14 @@
 </div>
 </details>
 
-## 기획
-https://github.com/songbyhyeok/2023-gibuhagae/wiki/%EA%B8%B0%ED%9A%8D
+## 플로우 차트
+<details>
+<summary>열기/닫기</summary>
+<div markdown="1"> 
+
+
+</div>
+</details>
 
 ## 기술적 이슈 및 해결과정(10.03 ~ 10.19)
 https://github.com/songbyhyeok/2023-gibuhagae/wiki/%EA%B8%B0%EC%88%A0%EC%A0%81-%EC%9D%B4%EC%8A%88-%EB%B0%8F-%ED%95%B4%EA%B2%B0%EA%B3%BC%EC%A0%95
