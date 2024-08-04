@@ -4,14 +4,14 @@
   <img src="https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/01d0a30c-a5f9-4736-86b6-cdc39c79ccea">
 </p>
 
-사회, 윤리적 성장 목표로 유기동물 보호 목적의 적립금 기부 시스템을 탑재한 반려동물 용품 쇼핑몰, 상품 관리와 회원 시스템을 포함하고 있다. 
+**사회, 윤리적 성장 목표로 유기동물 보호 목적의 적립금 기부 시스템을 탑재한 반려동물 용품 쇼핑몰, 상품 관리와 회원 시스템을 포함하고 있다.** 
 
 * 팀 프로젝트: (F-S 5명)
 * 개발 기간: 2023.09.26 ~ 2023.10.20
 * 기술스택: SpringBoot(Security, Thymeleaf, Mvc), Mybatis, Oracle
 * Teamwork
-  * github: [Link](https://github.com/gibuhagae/gibuhagae)
-  * notion: [Link](https://www.notion.so/songbyhyeok/110c9c9ec2114bf2923efe847abb7d86?pvs=4)
+  * github: [link](https://github.com/gibuhagae/gibuhagae)
+  * notion: [link](https://www.notion.so/songbyhyeok/110c9c9ec2114bf2923efe847abb7d86?pvs=4)
 
 ---
   
@@ -81,7 +81,7 @@
 </details>
 
 ## 기술적 이슈 및 해결과정(10.03 ~ 10.19)
-[Link](https://github.com/songbyhyeok/2023-gibuhagae/wiki/%EA%B8%B0%EC%88%A0%EC%A0%81-%EC%9D%B4%EC%8A%88-%EB%B0%8F-%ED%95%B4%EA%B2%B0%EA%B3%BC%EC%A0%95)
+[link](https://github.com/songbyhyeok/2023-gibuhagae/wiki/%EA%B8%B0%EC%88%A0%EC%A0%81-%EC%9D%B4%EC%8A%88-%EB%B0%8F-%ED%95%B4%EA%B2%B0%EA%B3%BC%EC%A0%95)
 
 ## 회고
-[Link](https://github.com/songbyhyeok/2023-gibuhagae/wiki/%ED%9A%8C%EA%B3%A0)
+[link](https://github.com/songbyhyeok/2023-gibuhagae/wiki/%ED%9A%8C%EA%B3%A0)
