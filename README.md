@@ -1,6 +1,5 @@
 
 ## 야옹아 기부하개
-
 <p align="center">
   <img src="https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/01d0a30c-a5f9-4736-86b6-cdc39c79ccea">
 </p>
@@ -17,7 +16,9 @@
 ---
   
 ## 담당 역할
-<img src="https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/3c381ea7-b057-4234-94a4-c64bb1eaf835" style="width:35%; height:35%;" alt="image6">
+<p align="center">
+  <img src="https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/3c381ea7-b057-4234-94a4-c64bb1eaf835" style="width:80%;" alt="image6">
+</p>
 
 **로그인/회원가입**
   1. Security Login System 커스텀마이징을 통한 로그인 구현 
