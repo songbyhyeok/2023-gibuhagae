@@ -58,6 +58,7 @@
 <summary>열기/닫기</summary>
 <div markdown="1"> 
 
+<img width="2599" alt="피그잼 (7)" src="https://github.com/user-attachments/assets/46ef3c90-d4e0-43fe-bcf6-086eaaa42112">
 
 </div>
 </details>
