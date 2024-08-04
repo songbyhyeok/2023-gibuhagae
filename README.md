@@ -63,6 +63,17 @@
 </div>
 </details>
 
+## 아키텍처
+<details>
+<summary>열기/닫기</summary>
+<div markdown="1"> 
+
+![sub-gibuhagae drawio (2)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/c88f7a4d-4dc9-4e5b-a557-359c3c2ee733)
+<em> 해당 프로젝트의 간략 설계도와 해당 주요 기능인 로그인 시스템에서 사용되는 Session 기술 메커니즘을 담고 있다. </em>
+
+</div>
+</details>
+
 ## 기술적 이슈 및 해결과정(10.03 ~ 10.19)
 https://github.com/songbyhyeok/2023-gibuhagae/wiki/%EA%B8%B0%EC%88%A0%EC%A0%81-%EC%9D%B4%EC%8A%88-%EB%B0%8F-%ED%95%B4%EA%B2%B0%EA%B3%BC%EC%A0%95
 
