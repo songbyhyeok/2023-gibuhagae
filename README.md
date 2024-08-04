@@ -10,8 +10,9 @@
 * 팀 프로젝트: (F-S 5명)
 * 개발 기간: 2023.09.26 ~ 2023.10.20
 * 기술스택: SpringBoot(Security, Thymeleaf, Mvc), Mybatis, Oracle
-* Teamwork Github: [Link](https://github.com/gibuhagae/gibuhagae)
-* Teamwrok Notion: [Link](https://www.notion.so/songbyhyeok/110c9c9ec2114bf2923efe847abb7d86?pvs=4)
+* Teamwork
+  * github: [Link](https://github.com/gibuhagae/gibuhagae)
+  * notion: [Link](https://www.notion.so/songbyhyeok/110c9c9ec2114bf2923efe847abb7d86?pvs=4)
 
 ---
   
