@@ -21,6 +21,9 @@
   5. 회원정보에서 정규식 처리를 통한 입력 조건 처리와 Daum API 연동을 통한 주소 입력
   6. ContextHolder에서 정보를 꺼내 회원정보 수정 구현
 
+## 개발 기간
+![Untitled (2)](https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/3820f3b8-a5c5-42f9-a757-a7ebc68210c4)
+
 ## 목업
 <details>
 <summary>열기/닫기</summary>
