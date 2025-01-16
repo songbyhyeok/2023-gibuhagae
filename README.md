@@ -1,5 +1,4 @@
-
-## 야옹아 기부하개
+# 야옹아 기부하개
 <p align="center">
   <img src="https://github.com/songbyhyeok/2023-HicodingGroupware/assets/63230518/01d0a30c-a5f9-4736-86b6-cdc39c79ccea">
 </p>
